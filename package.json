@@ -1,0 +1,19 @@
+{
+  "name": "react-simulate-event",
+  "version": "1.0.0",
+  "description": "A Helper function to simulate Mounted React components events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiMustaklem/react-simulate-event.git"
+  },
+  "author": "Rami Mustaklem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiMustaklem/react-simulate-event/issues"
+  },
+  "homepage": "https://github.com/RamiMustaklem/react-simulate-event#readme"
+}
