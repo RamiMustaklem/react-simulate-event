@@ -4,6 +4,6 @@ A Helper function to simulate Mounted React components events using jest and enz
 
 ## How to use it
 
-`import simulate from '@rm/react-simulate-event'`
+`import simulate from '@ramimustaklem/react-simulate-event'`
 
-`type(wrapper, 'input[name="email"]', 'email@example.com');`
+`simulate(wrapper, 'input[name="email"]', 'email@example.com');`
