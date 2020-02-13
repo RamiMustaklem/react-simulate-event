@@ -1,5 +1,5 @@
 {
-  "name": "@rm/react-simulate-event",
+  "name": "@ramimustaklem/react-simulate-event",
   "version": "1.0.0",
   "description": "A Helper function to simulate Mounted React components events",
   "main": "dist/index.js",
@@ -37,5 +37,6 @@
     "rollup-plugin-typescript2": "^0.26.0",
     "ts-jest": "^25.2.0",
     "typescript": "^3.7.5"
-  }
+  },
+  "dependencies": {}
 }
