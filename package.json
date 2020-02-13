@@ -11,8 +11,6 @@
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -cw",
-    "test": "jest",
-    "preversion": "npm run test",
     "version": "npm run build",
     "postversion": "git push && git push --tags && npm publish"
   },
