@@ -1,1 +1,1 @@
-export * from './simulate';
+export { default as simulate } from './simulate';
