@@ -1,6 +1,6 @@
 {
   "name": "@ramimustaklem/react-simulate-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Helper function to simulate Mounted React components events",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
